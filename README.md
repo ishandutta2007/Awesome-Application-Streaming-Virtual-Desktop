@@ -63,7 +63,7 @@ According to IDC MarketScape research, cloud hyperscalers (Microsoft Azure Virtu
 
 ## 🔓 Open-Source GitHub Projects 🌐
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[RustDesk](https://github.com/rustdesk/rustdesk)** [![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers)  
   **Open-source virtual desktop & remote access software**, AGPL-3.0 licensed. ~70k+ stars. Full control of your data with self-hosted relay/rendezvous server options. Cross-platform support for Windows, macOS, Linux, Android, and iOS. 🦀
@@ -109,7 +109,7 @@ Contributions are warmly welcomed! Follow these simple steps to submit new appli
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and concise description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and concise description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your additions.
 
 ---
